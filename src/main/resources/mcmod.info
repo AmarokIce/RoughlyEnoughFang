@@ -1,0 +1,16 @@
+[
+{
+  "modid": "roughly_enough_fang",
+  "name": "RoughlyEnoughFang",
+  "description": "RoughlyEnoughFang",
+  "version": "1.0",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Someoneice"],
+  "credits": "",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]

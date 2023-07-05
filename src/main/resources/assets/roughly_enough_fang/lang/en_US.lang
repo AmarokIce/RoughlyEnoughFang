@@ -1,0 +1,6 @@
+tile.sweet_berries.name=Sweet Berries
+item.dog_meal.name=Dog Meal
+item.raw_mutton.name=Raw Mutton
+item.cooked_mutton.name=Cooked Mutton
+
+death.attack.berries_crop=%1$s trying to be a fox.

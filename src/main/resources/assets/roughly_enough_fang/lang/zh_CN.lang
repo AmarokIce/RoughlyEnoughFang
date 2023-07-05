@@ -1,0 +1,6 @@
+tile.sweet_berries.name=甜浆果
+item.dog_meal.name=狗食
+item.raw_mutton.name=生羊肉
+item.cooked_mutton.name=熟羊肉
+
+death.attack.berries_crop=%1$s 试图成为狐狸。
